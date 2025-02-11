@@ -1,4 +1,4 @@
-Video chat web app
+# Video chat web app
 
 How to use it
 1. Open gitbash in the target folder
